@@ -36,42 +36,42 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
 2
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1440" alt="Screenshot 2025-05-27 at 3 12 57 PM" src="https://github.com/user-attachments/assets/c11bacd4-1115-4a52-9283-bdbfea5d45f1" />
 </p>
 <p>
 3
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1440" alt="Screenshot 2025-05-27 at 3 15 08 PM" src="https://github.com/user-attachments/assets/ec81a68e-063a-4294-b167-7422fe20d281" />
 </p>
 <p>
 4
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1440" alt="Screenshot 2025-05-27 at 3 15 19 PM" src="https://github.com/user-attachments/assets/8f3e07d8-9153-4df7-bd39-92225930343c" />
 </p>
 <p>
 5
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1440" alt="Screenshot 2025-05-27 at 3 18 09 PM" src="https://github.com/user-attachments/assets/dcb49ef7-3e2f-4025-9841-f2ebb0c0d7c2" />
 </p>
 <p>
 6
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1440" alt="Screenshot 2025-05-27 at 3 18 25 PM" src="https://github.com/user-attachments/assets/635042bd-b8bc-49ae-9ead-7b20515a18c5" />
 </p>
 <p>
 7
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1440" alt="Screenshot 2025-05-27 at 3 18 50 PM" src="https://github.com/user-attachments/assets/4e02e526-f092-41ea-9ea1-51abc765e3fa" />
 </p>
 <p>
 8
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1440" alt="Screenshot 2025-05-27 at 3 18 59 PM" src="https://github.com/user-attachments/assets/5d75a3ce-1950-4c6a-9ac5-785a0f26251b" />
 </p>
 <p>
 9
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1440" alt="Screenshot 2025-05-27 at 3 19 22 PM" src="https://github.com/user-attachments/assets/9b80e966-0a3a-4455-ad16-d33018314547" />
 </p>
 <p>
 10
