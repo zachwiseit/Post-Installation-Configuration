@@ -29,102 +29,99 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Item 5
 
 <h2>Configuration Steps</h2>
-1
+1 Continuing on If your coming back log into the Admin Analyst page. http://localhost/osTicket/scp/login.php
 <p>
 <img <img width="1440" alt="Screenshot 2025-05-27 at 3 12 54 PM" src="https://github.com/user-attachments/assets/9ded31bb-1398-45c3-98f6-fb1e99349334" />
 </p>
 <p>
-2
+2 Then open up the end user support page to submit tickets. http://localhost/osTicket
 <p>
 <img <img width="1440" alt="Screenshot 2025-05-27 at 3 12 57 PM" src="https://github.com/user-attachments/assets/c11bacd4-1115-4a52-9283-bdbfea5d45f1" />
 </p>
 <p>
-3
+3 Go back to the Analyst page to configure roles.
 <p>
 <img <img width="1440" alt="Screenshot 2025-05-27 at 3 15 08 PM" src="https://github.com/user-attachments/assets/ec81a68e-063a-4294-b167-7422fe20d281" />
 </p>
 <p>
-4
-<p>
-<img <img width="1440" alt="Screenshot 2025-05-27 at 3 15 19 PM" src="https://github.com/user-attachments/assets/8f3e07d8-9153-4df7-bd39-92225930343c" />
-</p>
-<p>
-5
+5 CLick on the "Agents" tab 
 <p>
 <img <img width="1440" alt="Screenshot 2025-05-27 at 3 18 09 PM" src="https://github.com/user-attachments/assets/dcb49ef7-3e2f-4025-9841-f2ebb0c0d7c2" />
 </p>
 <p>
-6
+6 Thin click on "Roles".
 <p>
 <img <img width="1440" alt="Screenshot 2025-05-27 at 3 18 25 PM" src="https://github.com/user-attachments/assets/635042bd-b8bc-49ae-9ead-7b20515a18c5" />
 </p>
 <p>
-7
+7 ON this page you can see the different levels of access and change who has access to what. 
+  Click on the "View only" tab.
 <p>
 <img <img width="1440" alt="Screenshot 2025-05-27 at 3 18 50 PM" src="https://github.com/user-attachments/assets/4e02e526-f092-41ea-9ea1-51abc765e3fa" />
 </p>
 <p>
-8
+8 From here click on "Permissions".
 <p>
 <img <img width="1440" alt="Screenshot 2025-05-27 at 3 18 59 PM" src="https://github.com/user-attachments/assets/5d75a3ce-1950-4c6a-9ac5-785a0f26251b" />
 </p>
 <p>
-9
+9 As you can see because it is veiw only none of the permissions are checked. 
 <p>
 <img <img width="1440" alt="Screenshot 2025-05-27 at 3 19 22 PM" src="https://github.com/user-attachments/assets/9b80e966-0a3a-4455-ad16-d33018314547" />
 </p>
 <p>
-10
+10 Now go back to Roles and click "Expanded Access".
 <p>
 <img <img width="1440" alt="PIC_10" src="https://github.com/user-attachments/assets/6085410e-211e-440e-9e70-e04b4bef1615" />
 </p>
 <p>
-11
+11 Also in the permissions tab you can see more accesss is granted but not completely. 
 <p>
 <img <img width="1440" alt="PIC_11" src="https://github.com/user-attachments/assets/42428647-ba2f-4b66-a990-eb28d7d412c0" />
 </p>
 <p>
-12
+12 Next go back to "Roles", click "All Access", and "permissions" again. Naturally everyhting is checked. 
 <p>
 <img <img width="1440" alt="PIC_12" src="https://github.com/user-attachments/assets/af1c48f9-ee5a-45d7-9b00-bae583f16a21" />
 </p>
 <p>
-13
+13 You can also create and define your own role like this. In Roles click "Add New Role" 
 <p>
 <img <img width="1440" alt="PIC_13" src="https://github.com/user-attachments/assets/0dcd49d0-ea0d-4b1e-bc8d-e74639ea46c4" />
 </p>
 <p>
-14
+14 Add the name of your choice to the role. I used Supreme Admin.
 <p>
 <img <img width="1440" alt="PIC_14" src="https://github.com/user-attachments/assets/58c83731-c6b3-4859-a9c6-740c79216418" />
 </p>
 <p>
-15
+15 For permissions because I named the role Supreme Admin I gave them full access. 
 <p>
 <img <img width="1440" alt="PIC_15" src="https://github.com/user-attachments/assets/827c3060-c252-4a03-bf3d-f20e8b2e3677" />
 </p>
 <p>
-16
+16 Full access to "Tasks"
 <p>
 <img <img width="1440" alt="PIC_16" src="https://github.com/user-attachments/assets/939d1d7e-613d-42ca-86bc-a69ec2bb4138" />
 </p>
 <p>
-17
+17 With access to "Knowledgebase as well. Once you have done that click "Add Role".
 <p>
 <img <img width="1440" alt="PIC_17" src="https://github.com/user-attachments/assets/9145605a-6590-4ad3-9352-0ffb35e39265" />
 </p>
 <p>
-18
+18 Now you will see your new role added to the list.
 <p>
 <img <img width="1440" alt="PIC_18" src="https://github.com/user-attachments/assets/b6c627ab-3bd2-40ad-9f17-e15b8772d555" />
 </p>
 <p>
-19
+19 Next is Department confifuration. Next to Roles click "Departments". 
+   This is useful to make a ticket visable to the correct departments. 
 <p>
 <img <img width="1440" alt="PIC_19" src="https://github.com/user-attachments/assets/66430b9e-59ab-4406-a338-56692f2cb016" />
 </p>
 <p>
-20
+20 Click "Add New Department" 
 <p>
 <img <img width="1440" alt="PIC_20" src="https://github.com/user-attachments/assets/efa30687-7464-4763-82f2-064d5163810a" />
 </p>
