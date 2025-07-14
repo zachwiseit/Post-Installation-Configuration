@@ -126,94 +126,85 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img <img width="1440" alt="PIC_20" src="https://github.com/user-attachments/assets/efa30687-7464-4763-82f2-064d5163810a" />
 </p>
 <p>
-21
+21 Here you can add new Departments with specific information. For now just change the "Parent" and "Name" to what I have below. 
+   Parent: "Top Level Department"
+   NAme: "SysAdmins"
+   Now click "Access"
 <p>
 <img <img width="1440" alt="PIC_21" src="https://github.com/user-attachments/assets/b675d5e5-0591-4dc0-8422-990ff7e9ea6c" />
 </p>
 <p>
-22
+22 This is where you will add agents to the departments (After they are created shortly).
 <p>
 <img <img width="1440" alt="PIC_22" src="https://github.com/user-attachments/assets/e84340a8-ad1d-452e-906b-7db76d9e7ecc" />
 </p>
 <p>
-23
+23 Back at the settings tab scrol down and click "Create Dept" at the bottom. 
 <p>
 <img <img width="1440" alt="PIC_23" src="https://github.com/user-attachments/assets/4abf1340-2565-4d74-85c1-e4dd8becf97d" />
 </p>
 <p>
-24
+24 Now you will see your Support SysAdmins that was just created. Next step is to create a Team. 
 <p>
 <img <img width="1440" alt="PIC_24" src="https://github.com/user-attachments/assets/35210fad-06bd-4ff0-8a2d-dafea0816a4c" />
 </p>
 <p>
-25
+25 The purpose of this is to group people with similar roles or responsibilities to optimize ticket assignments, collaboration, and overall workload. 
+  First from the admin panel click "Agents" and then "Teams" between Agents and Roles. Then "Add New Team".
 <p>
 <img <img width="1440" alt="PIC_25" src="https://github.com/user-attachments/assets/cb6f994e-5787-4fd8-9815-eca0509ea573" />
 </p>
 <p>
-26
+26 From here change the name to "Online Banking" and click "Create Team". 
 <p>
 <img <img width="1440" alt="PIC_26" src="https://github.com/user-attachments/assets/6f3f3c26-d518-42f5-9efd-c365986dfd2d" />
 </p>
 <p>
-27
+27 Now we need to change the settings so Anyone can create a ticket. 
+   Go to "Settings" and then "Users". 
 <p>
 <img <img width="1440" alt="PIC_27" src="https://github.com/user-attachments/assets/e67509e0-f47d-4e02-8e6c-bff908e39d09" />
 </p>
 <p>
-28
+28 If it is checked make sure the box for "Registration Required" is unchecked for the purpose of this excersize. 
 <p>
 <img <img width="1440" alt="PIC_28" src="https://github.com/user-attachments/assets/f44614f9-1fdc-46c3-99ea-7dbddaad1086" />
 </p>
 <p>
-29
+29 Next we need to configure the agents to act as our admins and supports. 
+   In the top right click "Agents".
 <p>
 <img <img width="1440" alt="PIC_29" src="https://github.com/user-attachments/assets/e0f760c1-414c-4537-adf9-cea8ffb1a093" />
 </p>
 <p>
-30
+30 Now click "Add New Agent". 
 <p>
 <img <img width="1440" alt="PIC_30" src="https://github.com/user-attachments/assets/bbaed4b0-1524-427e-9b44-2eed87edd7a5" />
 </p>
 <p>
-31
+31 First we will create our SysAdmin. Choose a Name, Email Address, and Username (save this information for Agents).
 <p>
 <img <img width="1440" alt="PIC_31" src="https://github.com/user-attachments/assets/f7eec134-5db4-4b5c-b676-f7a59fd03248" />
 </p>
 <p>
-32
+32 Now under Access for Department select Support/SysAdmins and Role choose Supreme Admin. 
 <p>
 <img <img width="1440" alt="PIC_32" src="https://github.com/user-attachments/assets/ee475bd6-3d33-4b0b-88c8-df96dd594e11" />
 </p>
 <p>
-33
+33 In the permissions tab make sure all boxes are checked. 
 <p>
 <img <img width="1440" alt="PIC_33" src="https://github.com/user-attachments/assets/bb3238b4-a54a-4a68-ba3b-42654a7298d9" />
 </p>
 <p>
-34
+34 For Teams make them apart of the Online Banking team that was created earlier. 
 <p>
 <img <img width="1440" alt="PIC_34" src="https://github.com/user-attachments/assets/035ae7aa-7a48-430a-86a2-ad617c7f30e7" />
 </p>
 <p>
-35
+35 Now that the first agent account is created we will make one more. 
 <p>
 <img <img width="1440" alt="PIC_35" src="https://github.com/user-attachments/assets/32579cb0-f47e-40e8-bff0-e0668cbe354d" />
-</p>
-<p>
-36
-<p>
-<img <img width="1440" alt="PIC_36" src="https://github.com/user-attachments/assets/da495585-b19b-4e09-a051-85afdb58f408" />
-</p>
-<p>
-37
-<p>
-<img <img width="1440" alt="PIC_37" src="https://github.com/user-attachments/assets/cf0edb1c-561b-416d-8cea-4dacbe72ac3e" />
-</p>
-<p>
-38
-<p>
-<img <img width="1440" alt="PIC_38" src="https://github.com/user-attachments/assets/1a541880-3b76-4d0e-b81e-2eaa4ae33241" />
 </p>
 <p>
 39
