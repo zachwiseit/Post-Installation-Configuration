@@ -337,58 +337,64 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img <img width="1440" alt="PIC_62" src="https://github.com/user-attachments/assets/0b340dfa-4c14-43a8-a195-d64b9221b785" />
 </p>
 <p>
-63 
+63 With all the SLA's created next we will configure "Help Topics" when a user creates a ticket.
 <p>
 <img <img width="1440" alt="PIC_63" src="https://github.com/user-attachments/assets/c764d981-de19-4328-806d-18a0e6d3505b" />
 </p>
 <p>
-64
+64 From the Manabe tab click  "Help Topics" and click "Add New Help Topic" 
 <p>
 <img <img width="1440" alt="PIC_64" src="https://github.com/user-attachments/assets/2099be39-0583-4d04-98c8-f3e7a22a0c4f" />
 </p>
 <p>
-65
-<p>
-<img <img width="1440" alt="PIC_65" src="https://github.com/user-attachments/assets/8adb002c-aa4e-4700-a247-4dca38bf99a1" />
-</p>
-<p>
-66
+66 First one 
+   Topic: Buisness Critical Outage.
+   Parent Tipic: Report a Problem
+   Click "Add topic". 
 <p>
 <img <img width="1440" alt="PIC_66" src="https://github.com/user-attachments/assets/72f61caa-94b2-4a25-b4ba-d0bbc9ea806c" />
 </p>
 <p>
-67
+67 Go back to "Help Topics" and click "Add New Help Topic" again.
 <p>
 <img <img width="1440" alt="PIC_67" src="https://github.com/user-attachments/assets/e6be8add-a223-4f1d-9408-5a0525759d3c" />
 </p>
 <p>
-68
+68  Second 
+   Topic: Personal Computer Issues 
+   Parent Tipic: Report a Problem
+   Click "Add topic". 
 <p>
 <img <img width="1440" alt="PIC_68" src="https://github.com/user-attachments/assets/e14d7d71-de6b-45b3-8095-a64743f6ccbb" />
 </p>
 <p>
-69
+69 Third
+   Topic: Equipment Request
+   Parent Tipic: General Inquiry
+   Click "Add topic". 
 <p>
 <img <img width="1440" alt="PIC_69" src="https://github.com/user-attachments/assets/2c0bfd86-9463-42dc-919b-6ee7ee47e863" />
 </p>
 <p>
-70
-<p>
-<img <img width="1440" alt="PIC_70" src="https://github.com/user-attachments/assets/0ba67f99-0c84-4a65-a946-0643a93dce36" />
-</p>
-<p>
-71
+71 Fourth
+   Topic: Password Reset
+   Parent Tipic: Report a Problem
+   Click "Add topic". 
 <p>
 <img <img width="1440" alt="PIC_71" src="https://github.com/user-attachments/assets/50e301c5-9e3e-4ad7-8838-d6928a115462" />
 </p>
 <p>
-72
+72 Fifth
+   Topic: Other
+   Parent Tipic: General Inquiry
+   Click "Add topic". 
 <p>
 <img <img width="1440" alt="PIC_72" src="https://github.com/user-attachments/assets/70cd4935-0b79-47e4-b079-7034f93e8256" />
 </p>
 <p>
-73
+73 Now you can see the five Help Topics you just created. 
 <p>
 <img <img width="1440" alt="PIC_73" src="https://github.com/user-attachments/assets/62e4133d-928f-47ee-a6c7-5b63fe1178c6" />
 </p>
 <p>
+In the next portion we will go through all Ticket life cycle. 
