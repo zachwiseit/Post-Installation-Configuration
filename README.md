@@ -29,7 +29,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Item 5
 
 <h2>Configuration Steps</h2>
-1 Continuing on If your coming back log into the Admin Analyst page. http://localhost/osTicket/scp/login.php
+1 Continuing on, if you're coming back, log into the Admin Analyst page. http://localhost/osTicket/scp/login.php
 <p>
 <img <img width="1440" alt="Screenshot 2025-05-27 at 3 12 54 PM" src="https://github.com/user-attachments/assets/9ded31bb-1398-45c3-98f6-fb1e99349334" />
 </p>
@@ -44,18 +44,17 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img <img width="1440" alt="Screenshot 2025-05-27 at 3 15 08 PM" src="https://github.com/user-attachments/assets/ec81a68e-063a-4294-b167-7422fe20d281" />
 </p>
 <p>
-5 CLick on the "Agents" tab 
+5 Click on the "Agents" tab. 
 <p>
 <img <img width="1440" alt="Screenshot 2025-05-27 at 3 18 09 PM" src="https://github.com/user-attachments/assets/dcb49ef7-3e2f-4025-9841-f2ebb0c0d7c2" />
 </p>
 <p>
-6 Thin click on "Roles".
+6 Then click on "Roles".
 <p>
 <img <img width="1440" alt="Screenshot 2025-05-27 at 3 18 25 PM" src="https://github.com/user-attachments/assets/635042bd-b8bc-49ae-9ead-7b20515a18c5" />
 </p>
 <p>
-7 ON this page you can see the different levels of access and change who has access to what. 
-  Click on the "View only" tab.
+7 On this page you can see the different levels of access and change who has access to what.
 <p>
 <img <img width="1440" alt="Screenshot 2025-05-27 at 3 18 50 PM" src="https://github.com/user-attachments/assets/4e02e526-f092-41ea-9ea1-51abc765e3fa" />
 </p>
@@ -65,7 +64,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img <img width="1440" alt="Screenshot 2025-05-27 at 3 18 59 PM" src="https://github.com/user-attachments/assets/5d75a3ce-1950-4c6a-9ac5-785a0f26251b" />
 </p>
 <p>
-9 As you can see because it is veiw only none of the permissions are checked. 
+9 As you can see, because it is view only, none of the permissions are checked. 
 <p>
 <img <img width="1440" alt="Screenshot 2025-05-27 at 3 19 22 PM" src="https://github.com/user-attachments/assets/9b80e966-0a3a-4455-ad16-d33018314547" />
 </p>
@@ -75,12 +74,12 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img <img width="1440" alt="PIC_10" src="https://github.com/user-attachments/assets/6085410e-211e-440e-9e70-e04b4bef1615" />
 </p>
 <p>
-11 Also in the permissions tab you can see more accesss is granted but not completely. 
+11 Also in the permissions tab you can see more access is granted but not completely. 
 <p>
 <img <img width="1440" alt="PIC_11" src="https://github.com/user-attachments/assets/42428647-ba2f-4b66-a990-eb28d7d412c0" />
 </p>
 <p>
-12 Next go back to "Roles", click "All Access", and "permissions" again. Naturally everyhting is checked. 
+12 Next go back to "Roles", click "All Access", and "Permissions" again. Naturally everything is checked. 
 <p>
 <img <img width="1440" alt="PIC_12" src="https://github.com/user-attachments/assets/af1c48f9-ee5a-45d7-9b00-bae583f16a21" />
 </p>
@@ -115,7 +114,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img <img width="1440" alt="PIC_18" src="https://github.com/user-attachments/assets/b6c627ab-3bd2-40ad-9f17-e15b8772d555" />
 </p>
 <p>
-19 Next is Department confifuration. Next to Roles click "Departments". 
+19 Next is Department configuration. Next to Roles, click "Departments". 
    This is useful to make a ticket visable to the correct departments. 
 <p>
 <img <img width="1440" alt="PIC_19" src="https://github.com/user-attachments/assets/66430b9e-59ab-4406-a338-56692f2cb016" />
@@ -126,9 +125,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img <img width="1440" alt="PIC_20" src="https://github.com/user-attachments/assets/efa30687-7464-4763-82f2-064d5163810a" />
 </p>
 <p>
-21 Here you can add new Departments with specific information. For now just change the "Parent" and "Name" to what I have below. 
+21 Here you can add new departments with specific information. For now, just change the "Parent" and "Name" to what I have below. 
    Parent: "Top Level Department"
-   NAme: "SysAdmins"
+   Name: "SysAdmins"
    Now click "Access"
 <p>
 <img <img width="1440" alt="PIC_21" src="https://github.com/user-attachments/assets/b675d5e5-0591-4dc0-8422-990ff7e9ea6c" />
@@ -139,7 +138,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img <img width="1440" alt="PIC_22" src="https://github.com/user-attachments/assets/e84340a8-ad1d-452e-906b-7db76d9e7ecc" />
 </p>
 <p>
-23 Back at the settings tab scrol down and click "Create Dept" at the bottom. 
+23 Back at the settings tab, scroll down and click "Create Dept" at the bottom. 
 <p>
 <img <img width="1440" alt="PIC_23" src="https://github.com/user-attachments/assets/4abf1340-2565-4d74-85c1-e4dd8becf97d" />
 </p>
@@ -166,7 +165,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img <img width="1440" alt="PIC_27" src="https://github.com/user-attachments/assets/e67509e0-f47d-4e02-8e6c-bff908e39d09" />
 </p>
 <p>
-28 If it is checked make sure the box for "Registration Required" is unchecked for the purpose of this excersize. 
+28 If it is checked, make sure the box for "Registration Required" is unchecked for the purpose of this exercise. 
 <p>
 <img <img width="1440" alt="PIC_28" src="https://github.com/user-attachments/assets/f44614f9-1fdc-46c3-99ea-7dbddaad1086" />
 </p>
@@ -197,7 +196,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img <img width="1440" alt="PIC_33" src="https://github.com/user-attachments/assets/bb3238b4-a54a-4a68-ba3b-42654a7298d9" />
 </p>
 <p>
-34 For Teams make them apart of the Online Banking team that was created earlier. 
+34 For Teams, make them a part of the Online Banking team that was created earlier. 
 <p>
 <img <img width="1440" alt="PIC_34" src="https://github.com/user-attachments/assets/035ae7aa-7a48-430a-86a2-ad617c7f30e7" />
 </p>
@@ -212,7 +211,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img <img width="1440" alt="PIC_39" src="https://github.com/user-attachments/assets/b51ee3e4-96da-465a-b5be-484fcafab53c" />
 </p>
 <p>
-40 Fill out the account information same as befor but with different information. 
+40 Fill out the account information same as before but with different information. 
 <p>
 <img <img width="1440" alt="PIC_40" src="https://github.com/user-attachments/assets/4263c7e2-bc14-4f62-8e34-2f548bbffa28" />
 </p>
@@ -242,7 +241,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img <img width="1440" alt="PIC_45" src="https://github.com/user-attachments/assets/484e97b4-7e7b-452b-b556-cb5d68503b8c" />
 </p>
 <p>
-46 Uncheck the box next to "Send the agent a password reset email" and choose a password and right it down. 
+46 Uncheck the box next to "Send the agent a password reset email" and choose a password and write it down. 
    Uncheck the box Next to "Request password change at next login" and click update. 
 <p>
 <img <img width="1440" alt="PIC_46" src="https://github.com/user-attachments/assets/06c1dd85-ec79-4f46-82e1-cb44a4b6edbd" />
@@ -268,7 +267,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img <img width="1440" alt="PIC_50" src="https://github.com/user-attachments/assets/504d154c-d2df-47d0-b329-e80857f47970" />
 </p>
 <p>
-51 In the top right of the page click "Agetn Panel".
+51 In the top right of the page click "Agent Panel".
 <p>
 <img <img width="1440" alt="PIC_51" src="https://github.com/user-attachments/assets/3fe9904b-21e7-4a71-9a85-03f3b3894578" />
 </p>
@@ -319,7 +318,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img <img width="1440" alt="PIC_60" src="https://github.com/user-attachments/assets/9593c811-ba8f-4a9a-a727-56e5886da29a" />
 </p>
 <p>
-61 Now SlA two, this one being considered more seveir. 
+61 Now SLA two, this one being considered more severe. 
     Name: Sev-B
    Grace Period: 4 
    Schedule: 24/7
@@ -342,14 +341,14 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img <img width="1440" alt="PIC_63" src="https://github.com/user-attachments/assets/c764d981-de19-4328-806d-18a0e6d3505b" />
 </p>
 <p>
-64 From the Manabe tab click  "Help Topics" and click "Add New Help Topic" 
+64 From the Manage tab click "Help Topics" and click "Add New Help Topic" 
 <p>
 <img <img width="1440" alt="PIC_64" src="https://github.com/user-attachments/assets/2099be39-0583-4d04-98c8-f3e7a22a0c4f" />
 </p>
 <p>
 66 First one 
-   Topic: Buisness Critical Outage.
-   Parent Tipic: Report a Problem
+   Topic: Business Critical Outage.
+   Parent Topic: Report a Problem
    Click "Add topic". 
 <p>
 <img <img width="1440" alt="PIC_66" src="https://github.com/user-attachments/assets/72f61caa-94b2-4a25-b4ba-d0bbc9ea806c" />
@@ -362,7 +361,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
 68  Second 
    Topic: Personal Computer Issues 
-   Parent Tipic: Report a Problem
+   Parent Topic: Report a Problem
    Click "Add topic". 
 <p>
 <img <img width="1440" alt="PIC_68" src="https://github.com/user-attachments/assets/e14d7d71-de6b-45b3-8095-a64743f6ccbb" />
@@ -370,7 +369,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
 69 Third
    Topic: Equipment Request
-   Parent Tipic: General Inquiry
+   Parent Topic: General Inquiry
    Click "Add topic". 
 <p>
 <img <img width="1440" alt="PIC_69" src="https://github.com/user-attachments/assets/2c0bfd86-9463-42dc-919b-6ee7ee47e863" />
@@ -378,7 +377,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
 71 Fourth
    Topic: Password Reset
-   Parent Tipic: Report a Problem
+   Parent Topic: Report a Problem
    Click "Add topic". 
 <p>
 <img <img width="1440" alt="PIC_71" src="https://github.com/user-attachments/assets/50e301c5-9e3e-4ad7-8838-d6928a115462" />
@@ -386,7 +385,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
 72 Fifth
    Topic: Other
-   Parent Tipic: General Inquiry
+   Parent Topic: General Inquiry
    Click "Add topic". 
 <p>
 <img <img width="1440" alt="PIC_72" src="https://github.com/user-attachments/assets/70cd4935-0b79-47e4-b079-7034f93e8256" />
