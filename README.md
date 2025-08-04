@@ -23,7 +23,9 @@ This is the post-install configuration of the open-source help desk ticketing sy
 - Departments 
 - Teams 
 - Agents 
-- Users 
+- Users
+- SLA
+- Help Topics 
 
 <h2>Configuration Steps</h2>
 1 Continuing on, if you're coming back, log into the Admin Analyst page. http://localhost/osTicket/scp/login.php
