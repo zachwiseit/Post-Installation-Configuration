@@ -11,6 +11,8 @@ This is the post-install configuration of the open-source help desk ticketing sy
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
+- Windows App (MacOS)
+- osTicket
 
 <h2>Operating Systems Used </h2>
 
