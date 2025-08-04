@@ -15,14 +15,15 @@ This is the post-install configuration of the open-source help desk ticketing sy
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
+- macOS Sonama 14.6.1
 
-<h2>Post-Install Configuration Objectives</h2>
+<h2>Configuration Aims Post-Installation</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Roles 
+- Departments 
+- Teams 
+- Agents 
+- Users 
 
 <h2>Configuration Steps</h2>
 1 Continuing on, if you're coming back, log into the Admin Analyst page. http://localhost/osTicket/scp/login.php
